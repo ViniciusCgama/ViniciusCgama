@@ -1,5 +1,5 @@
 # Olá, Seja Bem Vindo!
-[Do not speak in Portuguese? Click here to see the English version](https://github.com/ViniciusCgama/ViniciusCgama/blob/main/ReadUS.md)
+[Do not speak in Portuguese? Click here to see the English version](https://github.com/ViniciusCgama/ViniciusCgama/blob/main/ReadUS.md)<br>
 Eu sou Vinicius Coelho Gama, um estudante de Desenvolvimento de sistemas com ênfase em Segurança cibernética.<br/>
 Além disso também aprendi outras tecnologias relevantes, como HTML, CSS, JavaScript e outras ferramentas de desenvolvimento de software.<br/>
 Eu sou um indivíduo motivado e apaixonado por aprender coisas novas. Tenho muita vontade de aplicar minhas habilidades em Segurança cibernética e outros conhecimentos em uma oportunidade de trabalho em tempo integral, e estou disposto a trabalhar duro e aprender mais para me tornar um membro valioso para a equipe.<br/>
