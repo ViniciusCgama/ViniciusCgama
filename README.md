@@ -10,11 +10,11 @@ Sou organizado e possuo habilidades interpessoais que me permitem trabalhar bem 
 📚 Estou Cursando Desenvolvimento de sistemas, na ETEC; <br/>
 🧠 Estou sempre aberto para novos aprendizados;
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=XxISAGIxX&show_icons=true&theme=synthwave)
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCgama&show_icons=true&theme=synthwave)
 
 ## Contato:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/francisco-coelho-742b51204](https://www.linkedin.com/in/vinicius-coelho-gama-59a030212/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-coelho-gama-59a030212/)
 
 ## Tecnologias que uso
 
