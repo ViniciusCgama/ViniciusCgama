@@ -1,9 +1,7 @@
 # Olá, Seja Bem Vindo!
 [Do not speak in Portuguese? Click here to see the English version](https://github.com/ViniciusCgama/ViniciusCgama/blob/main/ReadUS.md)<br>
-Eu sou Vinicius Coelho Gama, um estudante de Desenvolvimento de sistemas com ênfase em Segurança cibernética.<br/>
-Além disso também aprendi outras tecnologias relevantes, como HTML, CSS, JavaScript e outras ferramentas de desenvolvimento de software.<br/>
-Eu sou um indivíduo motivado e apaixonado por aprender coisas novas. Tenho muita vontade de aplicar minhas habilidades em Segurança cibernética e outros conhecimentos em uma oportunidade de trabalho em tempo integral, e estou disposto a trabalhar duro e aprender mais para me tornar um membro valioso para a equipe.<br/>
-Sou organizado e possuo habilidades interpessoais que me permitem trabalhar bem em equipe. Sou capaz de realizar tarefas de forma independente e de forma colaborativa com outras pessoas.
+Eu sou Vinicius Coelho Gama, um estudante de Desenvolvimento de sistemas e trabalho na IBM.<br/>
+Atualmente trabalho com Java e Angular.
 
 ## Sobre mim:
 
@@ -24,4 +22,8 @@ Sou organizado e possuo habilidades interpessoais que me permitem trabalhar bem 
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img align="center" alt="Google cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> 
+    <img align="center" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+    <img align="center" alt="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" >
+
 </div>
