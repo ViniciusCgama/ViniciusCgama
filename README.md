@@ -11,7 +11,7 @@ Sou organizado e possuo habilidades interpessoais que me permitem trabalhar bem 
 🧠 Estou sempre aberto para novos aprendizados;
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCgama&show_icons=true&theme=synthwave)
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscgama&layout=compact&langs_count=7&theme=gotham" />
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscgama&layout=compact&langs_count=7&theme=gotham" />
 ## Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-coelho-gama-59a030212/)
