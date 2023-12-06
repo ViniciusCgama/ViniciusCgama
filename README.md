@@ -8,7 +8,7 @@ Atualmente trabalho com Java e Angular.
 📚 Estou Cursando Desenvolvimento de sistemas, na ETEC; <br/>
 🧠 Estou sempre aberto para novos aprendizados;
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCgama&show_icons=true&theme=gotham")
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCgama&show_icons=true&theme=gotham )
  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscgama&layout=compact&langs_count=7&theme=gotham" />
 ## Contato:
 
