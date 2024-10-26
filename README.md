@@ -12,7 +12,7 @@ Eu sou Vinicius Coelho Gama, Tenho formação na área de Desenvolvimento de sis
 ```javascript
 const Vinicius = {
   pronouns: "ele" | "dele",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [C#, CSS, HTML, Java, Javascript, Python, Ruby, Typescript],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker, Quarkus, Spring boot],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
